@@ -154,7 +154,7 @@ h3 {
 }
 
 /* ---------------------------------MEDIA------------------------------ */
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 575px) {
   body {
     display: flex;
     flex-direction: column;
